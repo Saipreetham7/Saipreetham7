@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saipreetham7&label=Profile%20views&color=0e75b6&style=flat" alt="saipreetham7" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Backend Services, Data Science, and Web Services**
+<p>I am highly motivated and dedicated, with a passion for technology. Strong problem-solving skills and ability to work well in a team. I am eager to apply my skills and knowledge to real-world projects through an opportunity, where I can continue to grow and develop as a Software Engineering Professional.</p>
+
+- 🌱 I’m currently learning **Data Structures and Algorithms, Backend Services, Data Science, and Web Services**
 
 - 👨‍💻 All of my projects are available at [https://saipreetham7.github.io/Portfolio/](https://saipreetham7.github.io/Portfolio/)
 
